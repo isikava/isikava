@@ -41,24 +41,20 @@ My name is Alex, i do Frontend using react.
         <td><a href="https://github.com/alexign473/Eshop-Cart-Vue-NodeJS">Eshop cart on Vue</a></td>
 		<td>&nbsp;</td>
 	</tr>
-	</tbody>
-</table>
-
-<table>
-	<tr>
+    <tr>
         <th colspan="2" align="start">
             Layouts
         </th>
     </tr>
-	<tr>
+    <tr>
         <td><a href="https://github.com/alexign473/waxom-template">Waxom template</a></td>
-		<td><a href="https://alexign473.github.io/waxom-template/" target="_blank">Live</a></td>	
-	</tr>
+    	<td><a href="https://alexign473.github.io/waxom-template/" target="_blank">Live</a></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/alexign473/design-studio-layout-scss">Design studio template</a></td>
-		<td><a href="https://alexign473.github.io/design-studio-layout-scss/" target="_blank">Live</a></td>	
-	</tr>
-	</tbody>
+    	<td><a href="https://alexign473.github.io/design-studio-layout-scss/" target="_blank">Live</a></td>
+    </tr>
+    </tbody>
 </table>
 
 <!--
