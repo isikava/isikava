@@ -37,14 +37,13 @@ My name is Alex, i do Frontend using react.
         <td><a href="https://github.com/alexign473/tic-tac-toe-react">Tic tac toe game vs cpu</a></td>
 		<td><a href="https://alexign473.github.io/tic-tac-toe-react/" target="_blank">Live</a></td>
 	</tr>
-    <tr>
-        <td><a href="https://github.com/alexign473/Eshop-Cart-Vue-NodeJS">Eshop cart on Vue</a></td>
-		<td>&nbsp;</td>
-	</tr>
-    <tr>
         <th colspan="2" align="start">
             Layouts
         </th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/alexign473/aot-landing">AOT landing</a></td>
+    	<td><a href="https://alexign473.github.io/aot-landing/" target="_blank">Live</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/alexign473/waxom-template">Waxom template</a></td>
